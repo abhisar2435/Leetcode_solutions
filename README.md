@@ -60,4 +60,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/abhisar2435/Leetcode_solutions/tree/master/0096-unique-binary-search-trees) |
+## Array
+|  |
+| ------- |
+| [1260-shift-2d-grid](https://github.com/abhisar2435/Leetcode_solutions/tree/master/1260-shift-2d-grid) |
+## Matrix
+|  |
+| ------- |
+| [1260-shift-2d-grid](https://github.com/abhisar2435/Leetcode_solutions/tree/master/1260-shift-2d-grid) |
+## Simulation
+|  |
+| ------- |
+| [1260-shift-2d-grid](https://github.com/abhisar2435/Leetcode_solutions/tree/master/1260-shift-2d-grid) |
 <!---LeetCode Topics End-->

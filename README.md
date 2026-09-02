@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/abhisar2435/Leetcode_solutions/tree/master/0096-unique-binary-search-trees) |
 | [0672-bulb-switcher-ii](https://github.com/abhisar2435/Leetcode_solutions/tree/master/0672-bulb-switcher-ii) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/abhisar2435/Leetcode_solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+| [3875-construct-uniform-parity-array-i](https://github.com/abhisar2435/Leetcode_solutions/tree/master/3875-construct-uniform-parity-array-i) |
 ## Array
 |  |
 | ------- |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/abhisar2435/Leetcode_solutions/tree/master/0037-sudoku-solver) |
 | [1260-shift-2d-grid](https://github.com/abhisar2435/Leetcode_solutions/tree/master/1260-shift-2d-grid) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/abhisar2435/Leetcode_solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3875-construct-uniform-parity-array-i](https://github.com/abhisar2435/Leetcode_solutions/tree/master/3875-construct-uniform-parity-array-i) |
 ## Matrix
 |  |
 | ------- |

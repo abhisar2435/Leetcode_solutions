@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/abhisar2435/Leetcode_solutions/tree/master/0096-unique-binary-search-trees) |
 | [0672-bulb-switcher-ii](https://github.com/abhisar2435/Leetcode_solutions/tree/master/0672-bulb-switcher-ii) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/abhisar2435/Leetcode_solutions/tree/master/1401-circle-and-rectangle-overlapping) |
 | [2862-maximum-element-sum-of-a-complete-subset-of-indices](https://github.com/abhisar2435/Leetcode_solutions/tree/master/2862-maximum-element-sum-of-a-complete-subset-of-indices) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/abhisar2435/Leetcode_solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3871-count-commas-in-range-ii](https://github.com/abhisar2435/Leetcode_solutions/tree/master/3871-count-commas-in-range-ii) |
@@ -178,4 +179,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/abhisar2435/Leetcode_solutions/tree/master/0025-reverse-nodes-in-k-group) |
+## Geometry
+|  |
+| ------- |
+| [1401-circle-and-rectangle-overlapping](https://github.com/abhisar2435/Leetcode_solutions/tree/master/1401-circle-and-rectangle-overlapping) |
 <!---LeetCode Topics End-->

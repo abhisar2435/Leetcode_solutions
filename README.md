@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/abhisar2435/Leetcode_solutions/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/abhisar2435/Leetcode_solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0115-distinct-subsequences](https://github.com/abhisar2435/Leetcode_solutions/tree/master/0115-distinct-subsequences) |
+| [0459-repeated-substring-pattern](https://github.com/abhisar2435/Leetcode_solutions/tree/master/0459-repeated-substring-pattern) |
 | [3498-reverse-degree-of-a-string](https://github.com/abhisar2435/Leetcode_solutions/tree/master/3498-reverse-degree-of-a-string) |
 ## Trie
 |  |
@@ -191,14 +192,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/abhisar2435/Leetcode_solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0459-repeated-substring-pattern](https://github.com/abhisar2435/Leetcode_solutions/tree/master/0459-repeated-substring-pattern) |
 ## Z Algorithm
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/abhisar2435/Leetcode_solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0459-repeated-substring-pattern](https://github.com/abhisar2435/Leetcode_solutions/tree/master/0459-repeated-substring-pattern) |
 ## Knuth–Morris–Pratt Algorithm
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/abhisar2435/Leetcode_solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0459-repeated-substring-pattern](https://github.com/abhisar2435/Leetcode_solutions/tree/master/0459-repeated-substring-pattern) |
 ## Boyer–Moore String-Search Algorithm
 |  |
 | ------- |

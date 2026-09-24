@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0095-unique-binary-search-trees-ii](https://github.com/abhisar2435/Leetcode_solutions/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/abhisar2435/Leetcode_solutions/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/abhisar2435/Leetcode_solutions/tree/master/0098-validate-binary-search-tree) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/abhisar2435/Leetcode_solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Math
 |  |
 | ------- |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/abhisar2435/Leetcode_solutions/tree/master/0014-longest-common-prefix) |
 | [0037-sudoku-solver](https://github.com/abhisar2435/Leetcode_solutions/tree/master/0037-sudoku-solver) |
 | [1260-shift-2d-grid](https://github.com/abhisar2435/Leetcode_solutions/tree/master/1260-shift-2d-grid) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/abhisar2435/Leetcode_solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2862-maximum-element-sum-of-a-complete-subset-of-indices](https://github.com/abhisar2435/Leetcode_solutions/tree/master/2862-maximum-element-sum-of-a-complete-subset-of-indices) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/abhisar2435/Leetcode_solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/abhisar2435/Leetcode_solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/abhisar2435/Leetcode_solutions/tree/master/0037-sudoku-solver) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/abhisar2435/Leetcode_solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/abhisar2435/Leetcode_solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Bit Manipulation
 |  |
@@ -141,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/abhisar2435/Leetcode_solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/abhisar2435/Leetcode_solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Divide and Conquer
 |  |
@@ -172,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/abhisar2435/Leetcode_solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3903-smallest-stable-index-i](https://github.com/abhisar2435/Leetcode_solutions/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/abhisar2435/Leetcode_solutions/tree/master/3904-smallest-stable-index-ii) |
 ## Number Theory

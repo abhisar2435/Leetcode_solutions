@@ -6,23 +6,27 @@ class Solution(object):
         :rtype: str
         """
         hashmap = {}
-        for key in knowledge:
-            hashmap[key[0]] = key[1] 
-        
-        st = []
-        
+        for pair in knowledge:
+            hashmap[pair[0]] = pair[1]
+
         ans = ""
-        for i in range(len(s)):
-            if s[i] ==  "(":
-                st.append(i)
-            elif s[i] == ")" and st :
-                j = st.pop()
-                temp = s[j+1:i] 
-                if temp in hashmap:
-                    ans += hashmap[temp]
+        i,n = 0,len(s)
+
+        while i < n:
+            if s[i] == "(":
+                key = ""
+                j = i+1
+                while s[j] != ")":
+                    key += s[j]
+                    j += 1
+                i = j + 1
+                if key in hashmap:
+                    ans += hashmap[key]
+
                 else:
                     ans += "?"
-            elif not st:
-                ans += s[i]
+            else:
+                ans += s[i] 
+                i += 1
 
-        return ans 
+        return ans

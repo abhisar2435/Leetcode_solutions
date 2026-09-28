@@ -3,35 +3,33 @@ public:
     string evaluate(string s, vector<vector<string>>& knowledge) {
         unordered_map<string, string> hashmap;
 
-        for (auto& key : knowledge) {
-            hashmap[key[0]] = key[1];
+        for (auto &pair : knowledge) {
+            hashmap[pair[0]] = pair[1];
         }
 
-        stack<int> st;
         string ans = "";
+        int i = 0, n = s.size();
 
-        for (int i = 0; i < s.length(); i++) {
-
+        while (i < n) {
             if (s[i] == '(') {
-                st.push(i);
-            }
+                string key = "";
+                int j = i + 1;
 
-            else if (s[i] == ')' && !st.empty()) {
-                int j = st.top();
-                st.pop();
-
-                string temp = s.substr(j + 1, i - j - 1);
-
-                if (hashmap.find(temp) != hashmap.end()) {
-                    ans += hashmap[temp];
+                while (s[j] != ')') {
+                    key += s[j];
+                    j++;
                 }
-                else {
-                    ans += "?";
-                }
-            }
 
-            else if (st.empty()) {
+                i = j + 1;
+
+                if (hashmap.find(key) != hashmap.end())
+                    ans += hashmap[key];
+                else
+                    ans += '?';
+            }
+            else {
                 ans += s[i];
+                i++;
             }
         }
 

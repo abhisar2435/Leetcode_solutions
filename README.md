@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/abhisar2435/Leetcode_solutions/tree/master/0067-add-binary) |
 | [0096-unique-binary-search-trees](https://github.com/abhisar2435/Leetcode_solutions/tree/master/0096-unique-binary-search-trees) |
 | [0672-bulb-switcher-ii](https://github.com/abhisar2435/Leetcode_solutions/tree/master/0672-bulb-switcher-ii) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/abhisar2435/Leetcode_solutions/tree/master/1401-circle-and-rectangle-overlapping) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/abhisar2435/Leetcode_solutions/tree/master/0067-add-binary) |
 | [1260-shift-2d-grid](https://github.com/abhisar2435/Leetcode_solutions/tree/master/1260-shift-2d-grid) |
 | [3498-reverse-degree-of-a-string](https://github.com/abhisar2435/Leetcode_solutions/tree/master/3498-reverse-degree-of-a-string) |
 ## Linked List
@@ -152,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/abhisar2435/Leetcode_solutions/tree/master/0067-add-binary) |
 | [0672-bulb-switcher-ii](https://github.com/abhisar2435/Leetcode_solutions/tree/master/0672-bulb-switcher-ii) |
 ## Sliding Window
 |  |
@@ -178,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/abhisar2435/Leetcode_solutions/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/abhisar2435/Leetcode_solutions/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/abhisar2435/Leetcode_solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0067-add-binary](https://github.com/abhisar2435/Leetcode_solutions/tree/master/0067-add-binary) |
 | [0115-distinct-subsequences](https://github.com/abhisar2435/Leetcode_solutions/tree/master/0115-distinct-subsequences) |
 | [0459-repeated-substring-pattern](https://github.com/abhisar2435/Leetcode_solutions/tree/master/0459-repeated-substring-pattern) |
 | [1096-brace-expansion-ii](https://github.com/abhisar2435/Leetcode_solutions/tree/master/1096-brace-expansion-ii) |

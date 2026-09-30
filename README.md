@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/abhisar2435/Leetcode_solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/abhisar2435/Leetcode_solutions/tree/master/0145-binary-tree-postorder-traversal) |
+| [1096-brace-expansion-ii](https://github.com/abhisar2435/Leetcode_solutions/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/abhisar2435/Leetcode_solutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/abhisar2435/Leetcode_solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Tree
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/abhisar2435/Leetcode_solutions/tree/master/0112-path-sum) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/abhisar2435/Leetcode_solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0672-bulb-switcher-ii](https://github.com/abhisar2435/Leetcode_solutions/tree/master/0672-bulb-switcher-ii) |
+| [1096-brace-expansion-ii](https://github.com/abhisar2435/Leetcode_solutions/tree/master/1096-brace-expansion-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0037-sudoku-solver](https://github.com/abhisar2435/Leetcode_solutions/tree/master/0037-sudoku-solver) |
 | [0095-unique-binary-search-trees-ii](https://github.com/abhisar2435/Leetcode_solutions/tree/master/0095-unique-binary-search-trees-ii) |
+| [1096-brace-expansion-ii](https://github.com/abhisar2435/Leetcode_solutions/tree/master/1096-brace-expansion-ii) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -141,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/abhisar2435/Leetcode_solutions/tree/master/0037-sudoku-solver) |
+| [1096-brace-expansion-ii](https://github.com/abhisar2435/Leetcode_solutions/tree/master/1096-brace-expansion-ii) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/abhisar2435/Leetcode_solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/abhisar2435/Leetcode_solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/abhisar2435/Leetcode_solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -175,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/abhisar2435/Leetcode_solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0115-distinct-subsequences](https://github.com/abhisar2435/Leetcode_solutions/tree/master/0115-distinct-subsequences) |
 | [0459-repeated-substring-pattern](https://github.com/abhisar2435/Leetcode_solutions/tree/master/0459-repeated-substring-pattern) |
+| [1096-brace-expansion-ii](https://github.com/abhisar2435/Leetcode_solutions/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/abhisar2435/Leetcode_solutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/abhisar2435/Leetcode_solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/abhisar2435/Leetcode_solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -230,4 +235,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/abhisar2435/Leetcode_solutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/abhisar2435/Leetcode_solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/abhisar2435/Leetcode_solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+## Sorting
+|  |
+| ------- |
+| [1096-brace-expansion-ii](https://github.com/abhisar2435/Leetcode_solutions/tree/master/1096-brace-expansion-ii) |
 <!---LeetCode Topics End-->

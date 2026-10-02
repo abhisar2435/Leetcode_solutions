@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/abhisar2435/Leetcode_solutions/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/abhisar2435/Leetcode_solutions/tree/master/0022-generate-parentheses) |
 | [0070-climbing-stairs](https://github.com/abhisar2435/Leetcode_solutions/tree/master/0070-climbing-stairs) |
 | [0095-unique-binary-search-trees-ii](https://github.com/abhisar2435/Leetcode_solutions/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/abhisar2435/Leetcode_solutions/tree/master/0096-unique-binary-search-trees) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/abhisar2435/Leetcode_solutions/tree/master/0022-generate-parentheses) |
 | [0037-sudoku-solver](https://github.com/abhisar2435/Leetcode_solutions/tree/master/0037-sudoku-solver) |
 | [0095-unique-binary-search-trees-ii](https://github.com/abhisar2435/Leetcode_solutions/tree/master/0095-unique-binary-search-trees-ii) |
 | [1096-brace-expansion-ii](https://github.com/abhisar2435/Leetcode_solutions/tree/master/1096-brace-expansion-ii) |
@@ -184,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/abhisar2435/Leetcode_solutions/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/abhisar2435/Leetcode_solutions/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/abhisar2435/Leetcode_solutions/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/abhisar2435/Leetcode_solutions/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/abhisar2435/Leetcode_solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/abhisar2435/Leetcode_solutions/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/abhisar2435/Leetcode_solutions/tree/master/0067-add-binary) |
@@ -244,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/abhisar2435/Leetcode_solutions/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/abhisar2435/Leetcode_solutions/tree/master/0022-generate-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/abhisar2435/Leetcode_solutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/abhisar2435/Leetcode_solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/abhisar2435/Leetcode_solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |

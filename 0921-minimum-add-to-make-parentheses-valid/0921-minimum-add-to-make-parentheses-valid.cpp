@@ -4,7 +4,7 @@ public:
         int n=s.size();
         stack<int>st;
         int cnt=0,i=0,c=0;
-        while(s[i] !='(' && i<n){i++;cnt++;}
+        while(i<n && s[i] !='('){i++;cnt++;}
         for(int j=i;j<n;j++){
             if(s[j]=='(') c++;
             else{

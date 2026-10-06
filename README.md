@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1096-brace-expansion-ii](https://github.com/abhisar2435/Leetcode_solutions/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/abhisar2435/Leetcode_solutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/abhisar2435/Leetcode_solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/abhisar2435/Leetcode_solutions/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## Tree
 |  |
 | ------- |
@@ -181,12 +182,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/abhisar2435/Leetcode_solutions/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/abhisar2435/Leetcode_solutions/tree/master/0011-container-with-most-water) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/abhisar2435/Leetcode_solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/abhisar2435/Leetcode_solutions/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/abhisar2435/Leetcode_solutions/tree/master/0011-container-with-most-water) |
 | [0678-valid-parenthesis-string](https://github.com/abhisar2435/Leetcode_solutions/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/abhisar2435/Leetcode_solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/abhisar2435/Leetcode_solutions/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## String
 |  |
 | ------- |
@@ -208,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/abhisar2435/Leetcode_solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/abhisar2435/Leetcode_solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/abhisar2435/Leetcode_solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/abhisar2435/Leetcode_solutions/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [3498-reverse-degree-of-a-string](https://github.com/abhisar2435/Leetcode_solutions/tree/master/3498-reverse-degree-of-a-string) |
 ## Trie
 |  |
@@ -264,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/abhisar2435/Leetcode_solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/abhisar2435/Leetcode_solutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/abhisar2435/Leetcode_solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/abhisar2435/Leetcode_solutions/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/abhisar2435/Leetcode_solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Sorting
 |  |

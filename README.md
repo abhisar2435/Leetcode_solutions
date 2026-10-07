@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/abhisar2435/Leetcode_solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/abhisar2435/Leetcode_solutions/tree/master/0112-path-sum) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/abhisar2435/Leetcode_solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0301-remove-invalid-parentheses](https://github.com/abhisar2435/Leetcode_solutions/tree/master/0301-remove-invalid-parentheses) |
 | [0672-bulb-switcher-ii](https://github.com/abhisar2435/Leetcode_solutions/tree/master/0672-bulb-switcher-ii) |
 | [1096-brace-expansion-ii](https://github.com/abhisar2435/Leetcode_solutions/tree/master/1096-brace-expansion-ii) |
 ## Dynamic Programming
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/abhisar2435/Leetcode_solutions/tree/master/0022-generate-parentheses) |
 | [0037-sudoku-solver](https://github.com/abhisar2435/Leetcode_solutions/tree/master/0037-sudoku-solver) |
 | [0095-unique-binary-search-trees-ii](https://github.com/abhisar2435/Leetcode_solutions/tree/master/0095-unique-binary-search-trees-ii) |
+| [0301-remove-invalid-parentheses](https://github.com/abhisar2435/Leetcode_solutions/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/abhisar2435/Leetcode_solutions/tree/master/1096-brace-expansion-ii) |
 ## Binary Search Tree
 |  |
@@ -206,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/abhisar2435/Leetcode_solutions/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/abhisar2435/Leetcode_solutions/tree/master/0067-add-binary) |
 | [0115-distinct-subsequences](https://github.com/abhisar2435/Leetcode_solutions/tree/master/0115-distinct-subsequences) |
+| [0301-remove-invalid-parentheses](https://github.com/abhisar2435/Leetcode_solutions/tree/master/0301-remove-invalid-parentheses) |
 | [0459-repeated-substring-pattern](https://github.com/abhisar2435/Leetcode_solutions/tree/master/0459-repeated-substring-pattern) |
 | [0678-valid-parenthesis-string](https://github.com/abhisar2435/Leetcode_solutions/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/abhisar2435/Leetcode_solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |

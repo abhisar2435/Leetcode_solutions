@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2333-minimum-sum-of-squared-difference](https://github.com/abhisar2435/Leetcode_solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/abhisar2435/Leetcode_solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2862-maximum-element-sum-of-a-complete-subset-of-indices](https://github.com/abhisar2435/Leetcode_solutions/tree/master/2862-maximum-element-sum-of-a-complete-subset-of-indices) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/abhisar2435/Leetcode_solutions/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/abhisar2435/Leetcode_solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/abhisar2435/Leetcode_solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3875-construct-uniform-parity-array-i](https://github.com/abhisar2435/Leetcode_solutions/tree/master/3875-construct-uniform-parity-array-i) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/abhisar2435/Leetcode_solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/abhisar2435/Leetcode_solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/abhisar2435/Leetcode_solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/abhisar2435/Leetcode_solutions/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/abhisar2435/Leetcode_solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Bit Manipulation
 |  |
@@ -306,4 +308,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/abhisar2435/Leetcode_solutions/tree/master/2778-sum-of-squares-of-special-elements) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/abhisar2435/Leetcode_solutions/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+## Segment Tree
+|  |
+| ------- |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/abhisar2435/Leetcode_solutions/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 <!---LeetCode Topics End-->

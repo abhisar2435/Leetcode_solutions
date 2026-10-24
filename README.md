@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0672-bulb-switcher-ii](https://github.com/abhisar2435/Leetcode_solutions/tree/master/0672-bulb-switcher-ii) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/abhisar2435/Leetcode_solutions/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/abhisar2435/Leetcode_solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [2409-count-days-spent-together](https://github.com/abhisar2435/Leetcode_solutions/tree/master/2409-count-days-spent-together) |
 | [2862-maximum-element-sum-of-a-complete-subset-of-indices](https://github.com/abhisar2435/Leetcode_solutions/tree/master/2862-maximum-element-sum-of-a-complete-subset-of-indices) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/abhisar2435/Leetcode_solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/abhisar2435/Leetcode_solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/abhisar2435/Leetcode_solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/abhisar2435/Leetcode_solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/abhisar2435/Leetcode_solutions/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2409-count-days-spent-together](https://github.com/abhisar2435/Leetcode_solutions/tree/master/2409-count-days-spent-together) |
 | [3498-reverse-degree-of-a-string](https://github.com/abhisar2435/Leetcode_solutions/tree/master/3498-reverse-degree-of-a-string) |
 ## Trie
 |  |
